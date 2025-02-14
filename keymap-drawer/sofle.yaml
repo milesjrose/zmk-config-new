@@ -60,7 +60,7 @@ layers:
   - RSHIFT
   - RAI
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:apple-keyboard-command$$
+  - {t: QWE, h: toggle}
   LOW:
   - {t: ▽, type: trans}
   - F1
@@ -243,4 +243,4 @@ layers:
   - RAI
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:apple-keyboard-command$$
+  - {t: COL, h: toggle}
