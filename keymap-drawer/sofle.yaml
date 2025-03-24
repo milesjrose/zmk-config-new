@@ -1,4 +1,4 @@
-layout: {qmk_keyboard: sofle/rev1}
+layout: {zmk_keyboard: sofle}
 layers:
   COL:
   - Esc
@@ -36,7 +36,7 @@ layers:
   - E
   - I
   - O
-  - ENTER
+  - '#'
   - $$mdi:apple-keyboard-control$$
   - Z
   - X
